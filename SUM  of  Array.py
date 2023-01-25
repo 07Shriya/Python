@@ -6,3 +6,4 @@ for i in range(1,n+1):
   
 total=sum(nlist)
 print("The sum of elements in the array ",total)
+#build in 
